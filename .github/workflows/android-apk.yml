@@ -38,5 +38,3 @@ jobs:
         with:
           name: COAutoClicker-debug-apk
           path: app/build/outputs/apk/debug/*.apk
-concurrency:
-  
